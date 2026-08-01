@@ -1,0 +1,1 @@
+import{t as e}from"./wire-favorite-buttons.D6GrUH8C.js";e();
