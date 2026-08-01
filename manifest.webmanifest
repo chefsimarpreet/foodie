@@ -1,6 +1,6 @@
 {
-  "name": "Indian Foodie",
-  "short_name": "Indian Foodie",
+  "name": "Indian Recipes",
+  "short_name": "Indian Recipes",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff8ec",

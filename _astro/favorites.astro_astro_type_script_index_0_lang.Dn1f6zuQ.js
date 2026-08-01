@@ -1,0 +1,1 @@
+import{n as e,t}from"./wire-favorite-buttons.BM-L1hij.js";var n=Array.from(document.querySelectorAll(`.recipe-card`)),r=document.getElementById(`empty-state`);function i(){let t=0;for(let r of n){let n=r.querySelector(`.favorite-btn`)?.dataset.favoriteId,i=n?e(window.localStorage,n):!1;r.classList.toggle(`hidden`,!i),i&&(t+=1)}r?.classList.toggle(`hidden`,t!==0)}t(i),i();
